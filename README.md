@@ -7,3 +7,4 @@
 - [`Neon` Serverless Postgres, storage and compute to offer autoscaling, branching, and bottomless storage](https://neon.tech/)
 - [`FaunaDB` Fauna combines the flexibility of NoSQL with the relational querying capabilities and ACID consistency of SQL systems](https://fauna.com/)
 - [`Nhost` The Open Source Firebase Alternative with GraphQL](https://nhost.io/)
+- [`Supabase` Supabase is an open source Firebase alternative](https://supabase.com/)
